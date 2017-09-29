@@ -1,0 +1,33 @@
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\ApplicationInsights.config
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\csc.exe
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\vbc.exe
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\VBCSCompiler.exe
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\teste guit.dll.config
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\teste guit.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\teste guit.pdb
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.Web.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.Web.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\obj\Debug\teste guit.csprojResolveAssemblyReference.cache
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\obj\Debug\teste guit.dll
+C:\Users\cc1356\Documents\GitHub\testenovogit\teste guit\teste guit\obj\Debug\teste guit.pdb
